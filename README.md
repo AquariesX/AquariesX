@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @AquariesX
-- 👀 I’m interested in Coding,especially in mobile app development
-- 🌱 I’m currently learning Flutter Development
-- 💞️ I’m looking to collaborate on open-source Flutter projects
-- 📫 How to reach me  : qasimali09810@gmail.com
-- 😄 Pronouns: Qasim's
-- ⚡ Fun fact:  I’m also passionate about graphic design!
+👋 Hi, I’m @AquariesX
+👀 I’m passionate about mobile app development
+💻 I work on real-time Flutter projects
+💞️ I’m looking to collaborate on open-source Flutter projects
+🎨 I’m also interested in UI/UX Design
+📫 Reach me at: qasimali09810@gmail.com
+😄 Pronouns: Qasim's
+⚡ Fun fact: I enjoy turning ideas into smooth, user-friendly apps!
 
 <!---
 AquariesX/AquariesX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
